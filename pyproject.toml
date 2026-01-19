@@ -63,6 +63,8 @@ dependencies = [
     "soundfile>=0.13.1",
     "box2d>=2.3.10",
     "mermaid-python>=0.1",
+    "jaxtyping>=0.3.5",
+    "typeguard>=4.4.4",
 ]
 
 [project.optional-dependencies]
