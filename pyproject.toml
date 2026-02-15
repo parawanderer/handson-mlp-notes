@@ -65,6 +65,7 @@ dependencies = [
     "mermaid-python>=0.1",
     "jaxtyping>=0.3.5",
     "typeguard>=4.4.4",
+    "torch-optimizer>=0.3.0",
 ]
 
 [project.optional-dependencies]
