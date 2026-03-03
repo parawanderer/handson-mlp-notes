@@ -66,6 +66,7 @@ dependencies = [
     "jaxtyping>=0.3.5",
     "typeguard>=4.4.4",
     "torch-optimizer>=0.3.0",
+    "seaborn>=0.13.2",
 ]
 
 [project.optional-dependencies]
