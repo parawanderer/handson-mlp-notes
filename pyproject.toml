@@ -67,6 +67,7 @@ dependencies = [
     "typeguard>=4.4.4",
     "torch-optimizer>=0.3.0",
     "seaborn>=0.13.2",
+    "pycocotools>=2.0.11",
 ]
 
 [project.optional-dependencies]
